@@ -1,3 +1,13 @@
+//UNIVERSIDAD DE LAS FUERZAS ARMADAS "ESPE"
+//CREAR FUNCIONES PARA INGRESAR DATOS Y CONVERTIRLOS EN ENTEROS /FLOTANTES/STRING Ó CHAR.
+//FECHA DE CREACION 11/05/2022
+//FECHA DE MODIFICACION 12/05/2022
+//GRUPO #9 
+//INTEGRANTES: Ramirez Ortiz Erick Patricio 
+//             Yanez Gutierrez Michelle Estefania 
+// GITHUB DEL GRUPO:epramirez2@espe.edu.ec  
+// https://github.com/ErickRamirezO/Trabajos-Grupo-9
+
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
