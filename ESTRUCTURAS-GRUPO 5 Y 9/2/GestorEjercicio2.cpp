@@ -1,11 +1,12 @@
 /*
 	Universidad de las Fuerzas Armadas "ESPE"
-	Ejercicio # 2 - Ejemplo sencillo de operador sobrecargado binario (*) devuelve sólo un número real.
-	Arias Xavier, Escobar David, Ramírez Erick, Yánez Michelle
-	Fecha de creación: 16/05/2022
-	Fecha de modificación: 17/05/2022
+	Ejercicio # 2 - Ejemplo sencillo de operador sobrecargado binario (*) devuelve sÃ³lo un nÃºmero real.
+	Arias Xavier, Escobar David, RamÃ­rez Erick, YÃ¡nez Michelle
+	Fecha de creaciÃ³n: 16/05/2022
+	Fecha de modificaciÃ³n: 17/05/2022
 	Grupo 5 y 9
 	https://github.com/EscobarDavid/Grupo5_4698_EstructuraDeDatos
+	https://github.com/ErickRamirezO/Trabajos-Grupo-9
 */
 
 #include <iostream>
