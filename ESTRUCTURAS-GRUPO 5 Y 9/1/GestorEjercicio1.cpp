@@ -6,6 +6,7 @@
 	Fecha de modificación: 17/05/2022
 	Grupo 5 y 9
 	https://github.com/EscobarDavid/Grupo5_4698_EstructuraDeDatos
+	https://github.com/ErickRamirezO/Trabajos-Grupo-9
 */
 
 #include <iostream>
